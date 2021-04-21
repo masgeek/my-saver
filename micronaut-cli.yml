@@ -2,5 +2,5 @@ applicationType: default
 defaultPackage: com.munywele
 testFramework: junit
 sourceLanguage: kotlin
-buildTool: gradle
-features: [annotation-api, app-name, data, data-jpa, github-workflow-docker-registry, github-workflow-graal-docker-registry, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, liquibase, log4j2, mariadb, netty-server, openapi, properties, readme, shade, testcontainers]
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, gradle, hibernate-jpa, http-client, jdbc-hikari, junit, kotlin, kotlin-application, liquibase, log4j2, mysql, netty-server, properties, readme, shade, testcontainers ]
